@@ -1,4 +1,4 @@
-![Header](.bugHunter.jpg)
+![Header](bugHunter.jpg)
 
 - 👋 Hi, I’m @motalbot85
 - 👀 I’m interested in learning more about QA, travel, games, music
