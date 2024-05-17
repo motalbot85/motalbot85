@@ -1,3 +1,5 @@
+![Header](.bugHunter.jpg)
+
 - 👋 Hi, I’m @motalbot85
 - 👀 I’m interested in learning more about QA, travel, games, music
 - 🌱 I’m currently learning Javascript, QA Automation tools, UI/UX design
