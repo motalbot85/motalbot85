@@ -14,13 +14,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monica-maceda-toranzos-90446279/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/momaceda/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/momaceda/)
 
 # 🔧 Tools:
-## 👩‍💻 Project Management and 🪲 Bug Tracking:
+## 👩‍💻 Project Management & 🪲 Bug Tracking:
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira/) [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/) [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/) [![Zoho](https://img.shields.io/badge/Zoho-DC2828?style=for-the-badge&logo=zoho&logoColor=white)](https://www.zoho.com/projects/) ![Zephyr](https://img.shields.io/badge/Zephyr-2E73B8?style=for-the-badge&logo=zephyr&logoColor=white) [![Targetprocess](https://img.shields.io/badge/Targetprocess-FF7F45?style=for-the-badge&logo=targetprocess&logoColor=white)](https://docvuedev.tpondemand.com/) [![qTest](https://img.shields.io/badge/qTest-49BEB7?style=for-the-badge&logo=qtest&logoColor=white)](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager)
 
-## 📝 Documentation
+## 📝 Documentation & 📲 Team Communication
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence) [![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/)
 
-## 📲 Team Communication
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/) [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en/microsoft-teams/group-chat-software) [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://zoom.us/) [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://www.skype.com/)
 
 ## 🔁 API Tools
