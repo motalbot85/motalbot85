@@ -15,7 +15,7 @@
 
 # 🔧 Tools:
 ## 📝Project Management and 🪲Bug Tracking:
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira/) [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/) [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/) [![Zoho](https://img.shields.io/badge/Zoho-DC2828?style=for-the-badge&logo=zoho&logoColor=white)](https://www.zoho.com/projects/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira/) [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/) [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/) [![Zoho](https://img.shields.io/badge/Zoho-DC2828?style=for-the-badge&logo=zoho&logoColor=white)](https://www.zoho.com/projects/) ![Zephyr](https://img.shields.io/badge/Zephyr-2E73B8?style=for-the-badge&logo=zephyr&logoColor=white) [![Targetprocess](https://img.shields.io/badge/Targetprocess-FF7F45?style=for-the-badge&logo=targetprocess&logoColor=white)](https://docvuedev.tpondemand.com/) [![qTest](https://img.shields.io/badge/qTest-49BEB7?style=for-the-badge&logo=qtest&logoColor=white)](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager)
 
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
