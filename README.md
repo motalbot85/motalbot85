@@ -32,6 +32,9 @@
 
 [![BrowserStack](https://img.shields.io/badge/BrowserStack-FFB02E?style=for-the-badge&logo=browserstack&logoColor=white)](https://www.browserstack.com/)
 
+## 🤖 Automation Testing:
+
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 <!---
 motalbot85/motalbot85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
