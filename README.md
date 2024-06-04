@@ -33,7 +33,7 @@
 [![BrowserStack](https://img.shields.io/badge/BrowserStack-FFB02E?style=for-the-badge&logo=browserstack&logoColor=white)](https://www.browserstack.com/)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Imlearnding-ezgif com-video-to-gif-converter](https://github.com/motalbot85/motalbot85/assets/166061532/dd1973f3-1f96-4dbb-8765-b76a689401c5)
+<img src="https://github.com/motalbot85/motalbot85/assets/166061532/dd1973f3-1f96-4dbb-8765-b76a689401c5" alt="Imlearnding-ezgif com-video-to-gif-converter" width="400" height="300">
 
 ## 🤖 Automation Testing:
 [![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
