@@ -32,7 +32,7 @@
 ## 💻 Web Testing & 📱 Mobile Testing:
 [![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developer.chrome.com/docs/devtools/) [![Firefox DevTools](https://img.shields.io/badge/Firefox%20DevTools-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://firefox-dev.tools/) [![Bug Magnet](https://img.shields.io/badge/Bug%20Magnet-FF6347?style=for-the-badge)](https://github.com/gojko/bugmagnet)
 
-[![BrowserStack](https://img.shields.io/badge/BrowserStack-FFB02E?style=for-the-badge&logo=browserstack&logoColor=white)](https://www.browserstack.com/)
+[![BrowserStack](https://img.shields.io/badge/BrowserStack-FFB02E?style=for-the-badge&logo=browserstack&logoColor=white)](https://www.browserstack.com/) [![TestFlight](https://img.shields.io/badge/TestFlight-000000?style=for-the-badge&logo=testflight&logoColor=white)](https://developer.apple.com/testflight/)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img src="https://github.com/motalbot85/motalbot85/assets/166061532/dd1973f3-1f96-4dbb-8765-b76a689401c5" alt="Imlearnding-ezgif com-video-to-gif-converter" width="300" height="250">
